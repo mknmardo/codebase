@@ -34,18 +34,14 @@ Dependency Injection, also known as DI, is a Design Pattern used to avoid coupli
 </p>
 IOC Container: Autofac
 
-
-<br />
 <h3>Transaction: Transaction Scope</h3>
-<br />
 <h3>Documentation: Swagger</h3>
-<br /><br />
 <h3>Project Structure</h3>
 <br /><br />
 <h3>Solution Name: CodeBase<h3>
-<br /><br/>
+<br />
 <h3>Projects:<h3>
-<br /><br />
+<br />
 -CodeBase.Api<br />
 -CodeBase.Common<br />
 -CodeBase.Services (Service Layer (Business Logic Layer)<br />
