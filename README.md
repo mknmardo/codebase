@@ -37,11 +37,8 @@ IOC Container: Autofac
 <h3>Transaction: Transaction Scope</h3>
 <h3>Documentation: Swagger</h3>
 <h3>Project Structure</h3>
-<br /><br />
 <h3>Solution Name: CodeBase<h3>
-<br />
 <h3>Projects:<h3>
-<br />
 -CodeBase.Api<br />
 -CodeBase.Common<br />
 -CodeBase.Services (Service Layer (Business Logic Layer)<br />
